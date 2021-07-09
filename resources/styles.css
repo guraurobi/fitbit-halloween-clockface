@@ -1,0 +1,55 @@
+#watchface-background {
+  viewport-fill: red;
+}
+
+#watchface-hour {
+  font-size: 50;
+  font-family: Colfax-Bold;
+  text-length: 92;
+  text-anchor: end;
+  x:100%-15;
+  y:50;
+  fill: lightgreen;
+  opacity: 0.75;
+}
+
+#watchface-steps {
+  font-size: 24;
+  font-family: Tungsten-Medium;
+  text-length: 92;
+  text-anchor: start;
+  x:15;
+  y:100%-15;
+  fill: lightgreen;
+  opacity: 0.85;
+}
+
+#watchface-heartrate {
+  font-size: 24;
+  font-family: Tungsten-Medium;
+  text-length: 92;
+  text-anchor: middle;
+  x:50%-5;
+  y:100%-15;
+  fill: lightgreen;
+  opacity: 0.85;
+}
+
+#watchface-calories {
+  font-size: 24;
+  font-family: Tungsten-Medium;
+  text-length: 92;
+  text-anchor: end;
+  x:100%-15;
+  y:100%-15;
+  fill: lightgreen;
+  opacity: 0.85;
+}
+
+#watchface-heartimg {
+  width:22;
+  height:22;
+  
+  x:50%+7;
+  y:100%-33;
+}
