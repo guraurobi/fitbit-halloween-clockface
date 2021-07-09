@@ -1,0 +1,14 @@
+<svg id="watchface-holder">
+  <image id="watchface-background" />
+  
+  <text id="watchface-hour" />
+  <text id="watchface-hour" />
+  <text id="watchface-steps" />
+  <text id="watchface-calories" />
+  <text id="watchface-heartrate" />
+  
+  
+  <image id="watchface-heartimg" href="img/greenheart.png" />
+  
+  <use href="#paymee" />
+</svg>
